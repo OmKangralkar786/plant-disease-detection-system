@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+env/
+
+# Django
+db.sqlite3
+media/
+
+# Environment Variables
+.env
+
+# TensorFlow
+*.h5
+
+# Node
+node_modules/
+
+# React Build
+dist/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Dataset
+dataset/
+dataset_split/
+
+# Logs
+*.log
+
+
+plant_disease_model.keras

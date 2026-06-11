@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Django
+db.sqlite3
+media/
+
+# React
+node_modules/
+dist/
+
+# Dataset
+dataset/
+dataset_split/
+
+# AI Model (267 MB)
+plant_disease_model.keras
+
+# VS Code
+.vscode/
+
+# Environment Variables
+.env
