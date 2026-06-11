@@ -37,7 +37,7 @@ function Home() {
     try {
 
       const response = await axios.post(
-        "http://127.0.0.1:8000/api/predict/",
+        "https://plant-disease-detection-system-4.onrender.com/",
         formData
       );
 
